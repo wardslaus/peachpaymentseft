@@ -1,2 +1,2 @@
 # peachpaymentseft
-Peach Payments Secure EFT  
+Peach Payments Secure EFT  DEveloped by Dominic Wardslaus-Rubhabha
